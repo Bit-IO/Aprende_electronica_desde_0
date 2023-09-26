@@ -19,3 +19,8 @@ No te preocupes, en Bit-IO learning nos dedicamos a hacer accesible la educacion
 todos en cualquier circunstancia, es por ello que puedes descargar las lecciones en PDF 
 para que no te pierdas de ninguna leccion y continues tu camino para ser un experto en 
 la electrónica.
+
+## Ayudanos a crear mas contenido.
+
+Ayudanos a compartir este repositorio  y a darle a la estrellita para que mas personas 
+se sumen a la comunidad Bit-IO leaning y se vuelvan unos expertos en la electrónica
